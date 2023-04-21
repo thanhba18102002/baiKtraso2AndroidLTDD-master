@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342705402797",
+    "firebase_url": "https://btfirebasesanpham-default-rtdb.firebaseio.com",
+    "project_id": "btfirebasesanpham",
+    "storage_bucket": "btfirebasesanpham.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342705402797:android:d1021b16bdcaf5d7486724",
+        "android_client_info": {
+          "package_name": "com.example.ktrquanlysp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342705402797-inekth1q9085jue2jeogkrq1cercd3na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIcQq6e7_FF1OsOAUuBaVlqDiTwCdmVYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342705402797-inekth1q9085jue2jeogkrq1cercd3na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
